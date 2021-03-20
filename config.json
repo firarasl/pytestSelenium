@@ -1,0 +1,6 @@
+{
+  "clientAppUrl": "https://opensource-demo.orangehrmlive.com/",
+  "urlsToTest": {
+    "signIn": "{clientAppUrl}"
+  }
+}
